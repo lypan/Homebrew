@@ -9,6 +9,7 @@ brew cask install github-desktop
 brew cask install google-chrome
 brew cask install iterm2
 brew cask install java
+brew cask install qbittorrent
 brew cask install simple-comic
 brew cask install the-unarchiver
 brew install git
