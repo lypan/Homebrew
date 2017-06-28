@@ -12,6 +12,10 @@ brew cask install java
 brew cask install qbittorrent
 brew cask install simple-comic
 brew cask install the-unarchiver
+brew install fzf
 brew install git
+brew install python3
 brew install tldr
 brew install vim
+brew cask install macvim
+brew cask install cmake
