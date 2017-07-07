@@ -16,9 +16,14 @@ brew cask install qbittorrent
 brew cask install simple-comic
 brew cask install slack
 brew cask install the-unarchiver
+brew cask install vlc
+brew install emacs
 brew install fzf
 brew install git
 brew install python3
+brew install reattach-to-user-namespace
+brew install smlnj
 brew install the_silver_searcher
 brew install tldr
+brew install tmux
 brew install vim
